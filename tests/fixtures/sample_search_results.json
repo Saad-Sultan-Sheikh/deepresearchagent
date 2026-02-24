@@ -1,0 +1,38 @@
+[
+  {
+    "result_id": "tavily_q_001_0",
+    "query_id": "q_001",
+    "source_api": "tavily",
+    "url": "https://linkedin.com/in/eleanormaddox",
+    "title": "Eleanor Maddox | Software Engineer | LinkedIn",
+    "snippet": "Eleanor Grace Maddox. Software Engineer at Cascade Software Solutions. Portland, Oregon, United States. BSc Computer Science, University of Oregon 2010.",
+    "full_content": null,
+    "published_date": null,
+    "relevance_score": 0.95,
+    "retrieved_at": "2026-02-24T10:00:00+00:00"
+  },
+  {
+    "result_id": "brave_q_001_0",
+    "query_id": "q_001",
+    "source_api": "brave",
+    "url": "https://github.com/emaddox",
+    "title": "emaddox (Eleanor Maddox) · GitHub",
+    "snippet": "Eleanor Maddox. Software engineer based in Portland, OR. Open source contributor. Joined 2013.",
+    "full_content": null,
+    "published_date": "2024-01-15",
+    "relevance_score": 0.85,
+    "retrieved_at": "2026-02-24T10:00:01+00:00"
+  },
+  {
+    "result_id": "exa_q_002_0",
+    "query_id": "q_002",
+    "source_api": "exa",
+    "url": "https://cascadesoft.io/team",
+    "title": "Our Team | Cascade Software Solutions",
+    "snippet": "Eleanor Maddox - Senior Software Engineer. Eleanor joined Cascade in 2018 and leads our backend infrastructure team.",
+    "full_content": null,
+    "published_date": "2025-06-01",
+    "relevance_score": 0.90,
+    "retrieved_at": "2026-02-24T10:00:02+00:00"
+  }
+]

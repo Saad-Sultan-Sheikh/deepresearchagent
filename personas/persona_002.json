@@ -1,0 +1,17 @@
+{
+  "persona_id": "persona_002",
+  "full_name": "Marcus Delroy Ashby",
+  "aliases": ["Marc Ashby", "M.D. Ashby"],
+  "date_of_birth": "1975-11-28",
+  "nationalities": ["British"],
+  "known_locations": ["London, UK"],
+  "employers": ["Ashby Financial Consulting Ltd", "Barclays Capital (2005-2014)"],
+  "education": ["London School of Economics - BSc Economics 1997"],
+  "social_profiles": [
+    "https://linkedin.com/in/marcusashby"
+  ],
+  "emails": ["m.ashby@ashbyfin.co.uk"],
+  "phones": ["+44-20-7946-0821"],
+  "notes": "Independent financial consultant. 18-month employment gap 2015-2016. Company registration inconsistency (Ashby Financial registered in both UK and Malta). Undisclosed Malta residency 2017-2019 discovered via property records.",
+  "risk_seed": "MEDIUM"
+}

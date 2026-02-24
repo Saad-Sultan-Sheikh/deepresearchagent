@@ -1,0 +1,18 @@
+{
+  "persona_id": "persona_001",
+  "full_name": "Eleanor Grace Maddox",
+  "aliases": [],
+  "date_of_birth": "1988-03-12",
+  "nationalities": ["American"],
+  "known_locations": ["Portland, OR, USA"],
+  "employers": ["Cascade Software Solutions", "Pivotal Systems Inc"],
+  "education": ["University of Oregon - BSc Computer Science 2010", "Portland State University - MSc Software Engineering 2013"],
+  "social_profiles": [
+    "https://linkedin.com/in/eleanormaddox",
+    "https://github.com/emaddox"
+  ],
+  "emails": ["eleanor.maddox@cascadesoft.io"],
+  "phones": ["+1-503-555-0142"],
+  "notes": "Clean background. Consistent employment history. No known legal issues. Published open-source contributions visible on GitHub.",
+  "risk_seed": "LOW"
+}

@@ -1,0 +1,12 @@
+{
+  "persona_id": "persona_003",
+  "expected_risk_level": "HIGH",
+  "expected_flag_types": ["IDENTITY_INCONSISTENCY", "JURISDICTION_MISMATCH"],
+  "expected_flag_count_min": 3,
+  "expected_flag_count_max": 10,
+  "required_corroborated_facts": [],
+  "forbidden_flag_types": [],
+  "min_confidence_score": 0.30,
+  "min_entity_count": 0,
+  "notes": "High-risk crypto persona. Must produce 3+ flags. HIGH or CRITICAL both pass."
+}

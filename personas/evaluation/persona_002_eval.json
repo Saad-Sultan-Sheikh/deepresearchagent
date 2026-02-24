@@ -1,0 +1,12 @@
+{
+  "persona_id": "persona_002",
+  "expected_risk_level": "MEDIUM",
+  "expected_flag_types": ["TEMPORAL_GAP"],
+  "expected_flag_count_min": 1,
+  "expected_flag_count_max": 5,
+  "required_corroborated_facts": [],
+  "forbidden_flag_types": ["SANCTIONS_PROXIMITY"],
+  "min_confidence_score": 0.35,
+  "min_entity_count": 0,
+  "notes": "18-month employment gap + Malta registration. Must flag TEMPORAL_GAP."
+}

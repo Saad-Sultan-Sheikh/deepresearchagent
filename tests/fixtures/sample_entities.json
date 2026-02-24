@@ -1,0 +1,45 @@
+{
+  "persona_id": "persona_001",
+  "run_id": "abc12345",
+  "extracted_at": "2026-02-24T10:05:00+00:00",
+  "primary_name": "Eleanor Grace Maddox",
+  "name_variants": ["Eleanor Maddox", "Eleanor Grace Maddox"],
+  "aliases": [],
+  "date_of_birth": "1988-03-12",
+  "nationalities": ["American"],
+  "emails": ["eleanor.maddox@cascadesoft.io"],
+  "phones": ["+1-503-555-0142"],
+  "current_locations": ["Portland, OR, USA"],
+  "historical_locations": [],
+  "current_employers": ["Cascade Software Solutions"],
+  "historical_employers": [
+    {"name": "Pivotal Systems Inc", "end_year": 2018}
+  ],
+  "education_history": [
+    {"institution": "University of Oregon", "degree": "BSc Computer Science", "year": "2010"},
+    {"institution": "Portland State University", "degree": "MSc Software Engineering", "year": "2013"}
+  ],
+  "social_handles": [
+    "https://linkedin.com/in/eleanormaddox",
+    "https://github.com/emaddox"
+  ],
+  "websites": [],
+  "financial_accounts": [],
+  "financial_entities": [],
+  "associates": [],
+  "entities": [
+    {
+      "entity_id": "email_001",
+      "label": "Email",
+      "value": "eleanor.maddox@cascadesoft.io",
+      "confidence": 0.90,
+      "source_urls": ["https://linkedin.com/in/eleanormaddox"],
+      "extracted_at": "2026-02-24T10:05:00+00:00",
+      "metadata": {}
+    }
+  ],
+  "relationships": [],
+  "contradictions": [],
+  "data_gaps": [],
+  "source_count": 3
+}

@@ -1,0 +1,41 @@
+{
+  "confidence_scores": {
+    "primary_name": {
+      "fact": "Eleanor Grace Maddox",
+      "score": 0.85,
+      "source_count": 3,
+      "authoritative_source": false,
+      "social_only": false,
+      "contradicts_seed": false,
+      "corroborates_seed": true,
+      "cross_source_conflict": false,
+      "rationale": "base=0.75; corroborates-seed +0.10; total modifier=+0.10"
+    },
+    "current_location_portland": {
+      "fact": "Portland, OR, USA",
+      "score": 0.85,
+      "source_count": 3,
+      "authoritative_source": false,
+      "social_only": false,
+      "contradicts_seed": false,
+      "corroborates_seed": true,
+      "cross_source_conflict": false,
+      "rationale": "base=0.75; corroborates-seed +0.10; total modifier=+0.10"
+    }
+  },
+  "cross_check_findings": [
+    "Name confirmed across LinkedIn, GitHub, and company website",
+    "Portland location consistent across all sources",
+    "Employment at Cascade Software Solutions confirmed by company website",
+    "No contradictions found against seed data"
+  ],
+  "corroborated_facts": [
+    "Eleanor Grace Maddox is a software engineer based in Portland, OR",
+    "Currently employed at Cascade Software Solutions",
+    "BSc Computer Science from University of Oregon (2010)",
+    "GitHub profile active with open-source contributions"
+  ],
+  "risk_flags": [],
+  "overall_risk_level": "LOW",
+  "risk_rationale": "All extracted facts corroborate the seed data. No inconsistencies, gaps, or red flags identified."
+}

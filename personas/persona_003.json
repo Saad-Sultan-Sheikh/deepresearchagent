@@ -1,0 +1,17 @@
+{
+  "persona_id": "persona_003",
+  "full_name": "Viktor Semyon Karev",
+  "aliases": ["Victor Karev", "V.S. Karev", "Viktor Semenov"],
+  "date_of_birth": "1975-07-04",
+  "nationalities": ["Russian", "UAE (claimed)"],
+  "known_locations": ["Dubai, UAE"],
+  "employers": ["BlockChain Horizons DMCC"],
+  "education": ["Moscow State University - BSc Applied Mathematics 1997 (unverified)"],
+  "social_profiles": [
+    "https://t.me/vkarev_crypto"
+  ],
+  "emails": ["v.karev@bchdmcc.ae"],
+  "phones": ["+971-4-555-0933"],
+  "notes": "Blockchain/DeFi consultant. Unregistered company (no DMCC license found). DOB inconsistency — some sources show 1975, others 1977. Simultaneous addresses in Dubai, Riga (Latvia), and Nicosia (Cyprus). Known associates appear in Pandora Papers leak. Crypto wallet linked to mixing service. High-risk profile.",
+  "risk_seed": "HIGH"
+}

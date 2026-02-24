@@ -1,0 +1,12 @@
+{
+  "persona_id": "persona_001",
+  "expected_risk_level": "LOW",
+  "expected_flag_types": [],
+  "expected_flag_count_min": 0,
+  "expected_flag_count_max": 2,
+  "required_corroborated_facts": [],
+  "forbidden_flag_types": ["SANCTIONS_PROXIMITY"],
+  "min_confidence_score": 0.40,
+  "min_entity_count": 0,
+  "notes": "Clean persona. Expect LOW or at most MEDIUM. No sanctions flags."
+}
