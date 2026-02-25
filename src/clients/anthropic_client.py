@@ -18,7 +18,7 @@ def get_anthropic_llm(temperature: float | None = None) -> ChatAnthropic:
         model=settings.analyzer_model,
         temperature=temperature if temperature is not None else settings.llm_temperature,
         api_key=settings.anthropic_api_key,
-        max_tokens=4096,
+        max_tokens=8192,
     )
 
 
@@ -33,7 +33,7 @@ async def structured_completion(
         model=settings.analyzer_model,
         temperature=temperature if temperature is not None else settings.llm_temperature,
         api_key=settings.anthropic_api_key,
-        max_tokens=4096,
+        max_tokens=8192,
     ).with_structured_output(output_schema)
 
     from langchain_core.messages import HumanMessage, SystemMessage
@@ -59,7 +59,7 @@ async def text_completion(
         model=settings.analyzer_model,
         temperature=temperature if temperature is not None else settings.llm_temperature,
         api_key=settings.anthropic_api_key,
-        max_tokens=4096,
+        max_tokens=8192,
     )
 
     from langchain_core.messages import HumanMessage, SystemMessage
